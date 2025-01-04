@@ -63,7 +63,11 @@
     "vite-plugin-babel-macros": "^1.0.6",
     "vite-plugin-svgr": "^3.2.0"
   },
+<<<<<<< HEAD
    "scripts": {
+=======
+  "scripts": {
+>>>>>>> 9d4dc0402849988313576560c1e90e67acfaf337
     "start": "vite --host",
     "build": "vite build",
     "serve": "vite preview"
